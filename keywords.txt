@@ -1,0 +1,15 @@
+#######################################
+# Syntax Coloring Map For SmallBotPlus
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+setup	KEYWORD2
+light	KEYWORD2
+slider	KEYWORD2
+sound	KEYWORD2
+resistance	KEYWORD2
+distance	KEYWORD2
+move	KEYWORD2
+Linetrace	KEYWORD2
